@@ -1,1 +1,1 @@
-Baza se naziva "iwa_2022_vz_projekt.sql"
+Baza sa podacima za rad aplikacije se naziva "iwa_2022_vz_projekt.sql"
