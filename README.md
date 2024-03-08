@@ -1,2 +1,2 @@
 Ova aplikacija bila je zadatak na kolegiju Izgradnja Web Aplikacija.
-Baza sa podacima za rad aplikacije se naziva "iwa_2022_vz_projekt.sql"
+Baza je u MySQL-u te je prvo potrebno učitati datoteku "Kreiranje baze podataka, tablica i korisnika" pa zatim "Punjenje podataka" u phpMyAdmin.
